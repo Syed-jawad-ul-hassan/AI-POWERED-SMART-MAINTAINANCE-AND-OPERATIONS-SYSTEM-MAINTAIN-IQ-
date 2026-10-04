@@ -23,7 +23,7 @@ It combines **Generative AI, RAG, and Agentic AI** to analyze maintenance issues
 
 ### 📁 Project Structure
 
-```text
+text
 ## 📁 Project Structure
 
 ```text
