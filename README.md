@@ -21,9 +21,7 @@ It combines **Generative AI, RAG, and Agentic AI** to analyze maintenance issues
 
 **Python · Streamlit · SQLite · Groq · LangChain · ChromaDB · Sentence Transformers · PyMuPDF · LangGraph · Pandas · Matplotlib**
 
-### 📁 Project Structure
 
-text
 ## 📁 Project Structure
 
 ```text
