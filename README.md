@@ -24,11 +24,13 @@ It combines **Generative AI, RAG, and Agentic AI** to analyze maintenance issues
 ### 📁 Project Structure
 
 ```text
+## 📁 Project Structure
+
+```text
 MaintainIQ/
 ├── app.py
 ├── database.py
 ├── ai_services.py
-├── reports.py
 ├── requirements.txt
 ├── maintainiq.db
 ├── README.md
@@ -39,6 +41,8 @@ MaintainIQ/
 │
 └── .streamlit/
     └── config.toml
+```
+
 ```
 
 ### 🔄 Workflow
