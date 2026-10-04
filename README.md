@@ -43,8 +43,6 @@ MaintainIQ/
     └── config.toml
 ```
 
-```
-
 ### 🔄 Workflow
 
 ```text
