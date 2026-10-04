@@ -28,11 +28,11 @@ MaintainIQ/
 ├── app.py
 ├── database.py
 ├── ai_services.py
-├── rag.py
-├── agents.py
 ├── reports.py
 ├── requirements.txt
 ├── maintainiq.db
+├── README.md
+├── .gitignore
 │
 ├── documents/
 │   └── maintenance_manual.pdf
