@@ -376,5 +376,5 @@ def summarize_maintenance_history(rows: list[dict[str, Any]]) -> str:
     )
     return (
         f"Analyzed {len(rows)} maintenance record(s). Equipment with the most recorded work: "
-        f"{', '.join(recurring)}. Recent work: {recent}"
+        f"{' ,'.join(recurring)}. Recent work: {recent}"
     )
